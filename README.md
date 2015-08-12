@@ -1,2 +1,2 @@
-# Twitter-L-System
-L-System derived from a Twitter stream // Processing // Twitter
+# Twitter Trees
+An L-System style visualization derived from a Twitter stream // Processing // Twitter
